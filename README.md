@@ -1,0 +1,1 @@
+jQuery-detection-resize-resolution
